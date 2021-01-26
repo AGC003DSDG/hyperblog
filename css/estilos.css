@@ -3,6 +3,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding: 0px;
+    background-color: #610F7F;
 }
 
 #container{
@@ -12,4 +13,5 @@ body{
     text-align: left;
     border: 1px solid #610F7F;  
     margin: 0 auto;
+    color: aliceblue;
 }
